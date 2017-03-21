@@ -7,7 +7,7 @@ Demo : http://jakubzloczewski.github.io/react-steps/
 
 To install this module run:
 ```sh
-npm install react-steps
+yarn add react-steps
 ```
 
 require it inside of your app
@@ -18,7 +18,7 @@ var Steps = require('react-steps');
 to compile example with webpack
 
 ```sh
-npm run build && npm run buildExample
+yarn build && yarn buildExample
 ```
 
 Tu run example localy just open ./example/index.html in browser
