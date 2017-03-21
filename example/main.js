@@ -16,6 +16,12 @@ var json = [
         "isDone": true
     },
     {
+        "text": "Failed step",
+        "isActive": false,
+        "isDone": false,
+        "isFailed" : true
+    },
+    {
         "text": "Active step",
         "isActive": true,
         "isDone": false
